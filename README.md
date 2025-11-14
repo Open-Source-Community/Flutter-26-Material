@@ -4,3 +4,7 @@
 - Control Flow.
 - Functions
 - OOP in Dart
+
+## Session 2
+- Flutter Enviroment
+- Flutter Basic Widgets
